@@ -34,7 +34,7 @@
                         <td>-</td>
                     </tr>
                     <tr>
-                        <td>Les branles manettes</td>
+                        <td>Les branle manettes</td>
                         <td>Christophe S & Eric</td>
                         <td><img id="logo" src="img/branlesmanettes.jpg" height=75 width=50></td>
                     </tr>
