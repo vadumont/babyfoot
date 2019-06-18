@@ -44,7 +44,7 @@
                         <td>-</td>
                     </tr>
                     <tr>
-                        <td>Espèces en voie de disparition (Lise & Jean-Noel)</td>
+                        <td>Espèce protégée en voie de disparition (Lise & Jean-Noel)</td>
                         <td>0</td>
                         <td>-</td>
                         <td>-</td>
@@ -74,7 +74,7 @@
                     </tr>
                     <tr>
                         <td>Ouais, c'est pas faux (Patricia & Thierry)</td>
-                        <td>Espèces en voie de disparition (Lise & Jean-Noel)</td>
+                        <td>Espèce protégée en voie de disparition (Lise & Jean-Noel)</td>
                         <td>-</td>
                         <td>-</td>
                     </tr>
@@ -92,7 +92,7 @@
                     </tr>
                     <tr>
                         <td>Le diable est aux vaches (Pierre-Guy & Jean-Pierre)</td>
-                        <td>Espèces en voie de disparition (Lise & Jean-Noel)</td>
+                        <td>Espèce protégée en voie de disparition (Lise & Jean-Noel)</td>
                         <td>-</td>
                         <td>-</td>
                     </tr>
@@ -109,13 +109,13 @@
                         <td>-</td>
                     </tr>
                     <tr>
-                        <td>Espèces en voie de disparition (Lise & Jean-Noel)</td>
+                        <td>Espèce protégée en voie de disparition (Lise & Jean-Noel)</td>
                         <td>T-Rex (Isabelle & Anourack)</td>
                         <td>-</td>
                         <td>-</td>
                     </tr>
                     <tr>
-                        <td>Espèces en voie de disparition (Lise & Jean-Noel)</td>
+                        <td>Espèce protégée en voie de disparition (Lise & Jean-Noel)</td>
                         <td>Elle est ou la poulette (Christophe B & Fabien)</td>
                         <td>-</td>
                         <td>-</td>
