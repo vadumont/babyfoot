@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding-top: 10px;
+    width: 100%;
+    background: ivory;
+    text-align: center;
+
+}
+
+nav {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul {
+    display: flex;
+    height: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+nav li {
+    flex: 1;
+    list-style: none;
+}
+
+nav a {
+    display: block;
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+
+nav a:hover {
+    background-color: brown;
+}
+
+.section1 {
+    display: flex;
+    margin-top: 20px;
+}
+
+.div1 {
+    flex: 2;
+    border: #4CAF50;
+    text-align: center;
+}
+
+.div2 {
+    flex: 2;
+    text-align: center;
+}
+
+.titres {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.button {
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 120px;
+}
+
+.titre_hall {
+    flex: 1;
+    text-align: center;
+    font-size: 30;
+}
+
+table {
+    margin-top: 50px;
+    width: 100%;
+}
+
+th, td {
+    padding: 5px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: brown;
+    color: white;
+    margin-top: 30px;
+    margin-left: 10px;
+    padding-left: 20px;
+    height: 30px;
+}
+
+td {
+    margin-left: 10px;
+    padding-left: 20px;
+    vertical-align: bottom;
+    font-size: 16px;
+}
+
+tr:hover {background-color: cadetblue;}
+
