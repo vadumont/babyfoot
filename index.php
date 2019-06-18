@@ -30,7 +30,7 @@
                     </tr>
                     <tr>
                         <td>A l'ancienne</td>
-                        <td>Romain & Jérome</td>
+                        <td>Romain & Jérôme</td>
                         <td>-</td>
                     </tr>
                     <tr>
