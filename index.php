@@ -59,7 +59,7 @@
                         <td><img id="logo" src="img/vaches.jpg" height=125 width=100></td>
                     </tr>
                     <tr>
-                        <td>Espèces en voie de disparition</td>
+                        <td>Espèce protégée en voie de disparition</td>
                         <td>Lise & Jean-Noel</td>
                         <td>-</td>
                     </tr>
