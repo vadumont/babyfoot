@@ -17,7 +17,7 @@
                     </tr>
                     <tr>
                         <td>Les petits pédestres dont un au lion (Rémy & Valentin)</td>
-                        <td>4</td>
+                        <td>6</td>
                         <td>2</td>
                         <td>0</td>
                         <td>2</td>
@@ -31,7 +31,7 @@
                     </tr>
                     <tr>
                         <td>Les rasta rocket (Gilles & Sébastien)</td>
-                        <td>2</td>
+                        <td>0</td>
                         <td>0</td>
                         <td>2</td>
                         <td>2</td>
