@@ -44,7 +44,7 @@
                         <td>-</td>
                     </tr>
                     <tr>
-                        <td>Les branles manettes (Christophe S & Eric)</td>
+                        <td>Les branle manettes (Christophe S & Eric)</td>
                         <td>0</td>
                         <td>-</td>
                         <td>-</td>
@@ -74,7 +74,7 @@
                     </tr>
                     <tr>
                         <td>Les petits pédestres dont un au lion (Rémy & Valentin)</td>
-                        <td>Les branles manettes (Eric & Christophe S)</td>
+                        <td>Les branle manettes (Eric & Christophe S)</td>
                         <td>-</td>
                         <td>-</td>
                     </tr>
@@ -92,7 +92,7 @@
                     </tr>
                     <tr>
                         <td>A l'ancienne (Romain & Jérôme)</td>
-                        <td>Les branles manettes (Eric & Christophe S)</td>
+                        <td>Les branles manette (Eric & Christophe S)</td>
                         <td>-</td>
                         <td>-</td>
                     </tr>
@@ -109,13 +109,13 @@
                         <td>-</td>
                     </tr>
                     <tr>
-                        <td>Les branles manettes (Eric & Christophe S)</td>
+                        <td>Les branle manettes (Eric & Christophe S)</td>
                         <td>Il faut pas respirer la compote, ça fait tousser (Antoine P & Pierre)</td>
                         <td>-</td>
                         <td>-</td>
                     </tr>
                     <tr>
-                        <td>Les branles manettes (Eric & Christophe S)</td>
+                        <td>Les branle manettes (Eric & Christophe S)</td>
                         <td>Les rasta rocket (Gilles & Sébastien)</td>
                         <td>-</td>
                         <td>-</td>
