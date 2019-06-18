@@ -5,7 +5,7 @@
 $header = "<html>
 <head>
     <meta charset=\"utf-8\" />
-    <title>Les petits pédestres vont gagnés !</title>
+    <title>Les petits pédestres vont gagner !</title>
     <link rel=\"stylesheet\" href=\"css/style.css\">
 </head>
 
