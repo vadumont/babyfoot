@@ -20,7 +20,7 @@
                     </tr>
                     <tr>
                         <td>Il faut pas respirer la compote, ça fait tousser</td>
-                        <td>Antoine & Pierre</td>
+                        <td>Antoine P & Pierre</td>
                         <td><img id="logo" src="img/compote.jpg" height=75 width=100></td>
                     </tr>
                     <tr>
@@ -60,7 +60,7 @@
                     </tr>
                     <tr>
                         <td>Espèce protégée en voie de disparition</td>
-                        <td>Lise & Jean-Noel</td>
+                        <td>Lise & Jean-Noël</td>
                         <td>-</td>
                     </tr>
                 </table>
