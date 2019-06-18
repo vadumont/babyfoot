@@ -82,7 +82,7 @@
                         <td>Les petits pédestres dont un au lion (Rémy & Valentin)</td>
                         <td>Il faut pas respirer la compote, ça fait tousser (Antoine & Pierre)</td>
                         <td>10 - 6</td>
-                        <td>Les petits pédestres dont un au lion (Rémy & Valentin</td>
+                        <td>Les petits pédestres dont un au lion (Rémy & Valentin)</td>
                     </tr>
                     <tr>
                         <td>Les petits pédestres dont un au lion (Rémy & Valentin)</td>
