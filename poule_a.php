@@ -123,7 +123,7 @@
                     <tr>
                         <td>Il faut pas respirer la compote, ça fait tousser (Antoine & Pierre)</td>
                         <td>Les rasta rocket (Gilles & Sébastien)</td>
-                        <td>10 - 8</td>
+                        <td>10 - 9</td>
                         <td>Il faut pas respirer la compote, ça fait tousser (Antoine & Pierre)</td>
                     </tr>
                 </table>
