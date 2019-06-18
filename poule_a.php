@@ -92,7 +92,7 @@
                     </tr>
                     <tr>
                         <td>A l'ancienne (Romain & Jérôme)</td>
-                        <td>Les branles manette (Eric & Christophe S)</td>
+                        <td>Les branle manette (Eric & Christophe S)</td>
                         <td>-</td>
                         <td>-</td>
                     </tr>
