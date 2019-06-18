@@ -16,7 +16,7 @@
                         <th>NOMBRE DE MATCHS JOUES</th>
                     </tr>
                     <tr>
-                        <td>Les petits pédestres dont un au lion (Rémy et Valentin)</td>
+                        <td>Les petits pédestres dont un au lion (Rémy & Valentin)</td>
                         <td>4</td>
                         <td>2</td>
                         <td>0</td>

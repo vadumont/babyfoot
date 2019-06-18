@@ -15,7 +15,7 @@
                     </tr>
                     <tr>
                         <td>Les petits pédestres dont un au lion</td>
-                        <td>Rémy et Valentin</td>
+                        <td>Rémy & Valentin</td>
                         <td><img id="logo" src="img/lespetitspedestres.jpg" height=75 width=100></td>
                     </tr>
                     <tr>
