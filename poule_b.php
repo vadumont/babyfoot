@@ -33,7 +33,7 @@
                         <td>-</td>
                     </tr>
                     <tr>
-                        <td>Elle est où la poulette (Christophe B & Fabien)</td>
+                        <td>Elle est où la poulette ? (Christophe B & Fabien)</td>
                         <td>0</td>
                         <td>-</td>
                         <td>-</td>
@@ -92,7 +92,7 @@
                     </tr>
                     <tr>
                         <td>Ouais, c'est pas faux (Patricia & Thierry)</td>
-                        <td>Elle est où la poulette (Christophe B & Fabien)</td>
+                        <td>Elle est où la poulette ? (Christophe B & Fabien)</td>
                         <td>-</td>
                         <td>-</td>
                     </tr>
@@ -110,7 +110,7 @@
                     </tr>
                     <tr>
                         <td>Le diable est aux vaches (Pierre-Guy & Jean-Pierre)</td>
-                        <td>Elle est où la poulette (Christophe B & Fabien)</td>
+                        <td>Elle est où la poulette ? (Christophe B & Fabien)</td>
                         <td>-</td>
                         <td>-</td>
                     </tr>
@@ -122,13 +122,13 @@
                     </tr>
                     <tr>
                         <td>Espèce protégée en voie de disparition (Lise & Jean-Noël)</td>
-                        <td>Elle est où la poulette (Christophe B & Fabien)</td>
+                        <td>Elle est où la poulette ? (Christophe B & Fabien)</td>
                         <td>-</td>
                         <td>-</td>
                     </tr>
                     <tr>
                         <td>T-Rex (Isabelle & Anourack)</td>
-                        <td>Elle est où la poulette (Christophe B & Fabien)</td>
+                        <td>Elle est où la poulette ? (Christophe B & Fabien)</td>
                         <td>-</td>
                         <td>-</td>
                     </tr>
