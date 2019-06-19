@@ -49,7 +49,7 @@
                         <td>-</td>
                     </tr>
                     <tr>
-                        <td>Elle est où la poulette</td>
+                        <td>Elle est où la poulette ?</td>
                         <td>Christophe B & Fabien</td>
                         <td>-</td>
                     </tr>
