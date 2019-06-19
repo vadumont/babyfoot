@@ -13,6 +13,7 @@
                         <th>POINTS</th>
                         <th>VICTOIRES</th>
                         <th>DEFAITES</th>
+                        <th>GOAL AVERAGE</th>
                         <th>NOMBRE DE MATCHS JOUES</th>
                     </tr>
                     <tr>
@@ -20,6 +21,7 @@
                         <td>6</td>
                         <td>2</td>
                         <td>0</td>
+                        <td>20</td>
                         <td>2</td>
                     </tr>
                     <tr>
@@ -27,6 +29,7 @@
                         <td>3</td>
                         <td>1</td>
                         <td>1</td>
+                        <td>16</td>
                         <td>2</td>
                     </tr>
                     <tr>
@@ -34,6 +37,7 @@
                         <td>0</td>
                         <td>0</td>
                         <td>2</td>
+                        <td>12</td>
                         <td>2</td>
                     </tr>
                     <tr>
@@ -42,10 +46,12 @@
                         <td>-</td>
                         <td>-</td>
                         <td>-</td>
+                        <td>-</td>
                     </tr>
                     <tr>
                         <td>Les branle manettes (Christophe S & Eric)</td>
                         <td>0</td>
+                        <td>-</td>
                         <td>-</td>
                         <td>-</td>
                         <td>-</td>
