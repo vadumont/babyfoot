@@ -25,12 +25,20 @@
                         <td>2</td>
                     </tr>
                     <tr>
+                        <td>Les branle manettes (Christophe S & Eric)</td>
+                        <td>3</td>
+                        <td>1</td>
+                        <td>0</td>
+                        <td>8</td>
+                        <td>1</td>
+                    </tr>
+                    <tr>
                         <td>Il faut pas respirer la compote, ça fait tousser (Antoine P & Pierre)</td>
                         <td>3</td>
                         <td>1</td>
-                        <td>1</td>
-                        <td>-3</td>
                         <td>2</td>
+                        <td>-11</td>
+                        <td>3</td>
                     </tr>
                     <tr>
                         <td>Les rasta rocket (Gilles & Sébastien)</td>
@@ -42,14 +50,6 @@
                     </tr>
                     <tr>
                         <td>A l'ancienne (Romain & Jérôme)</td>
-                        <td>0</td>
-                        <td>-</td>
-                        <td>-</td>
-                        <td>-</td>
-                        <td>-</td>
-                    </tr>
-                    <tr>
-                        <td>Les branle manettes (Christophe S & Eric)</td>
                         <td>0</td>
                         <td>-</td>
                         <td>-</td>
@@ -117,8 +117,8 @@
                     <tr>
                         <td>Les branle manettes (Eric & Christophe S)</td>
                         <td>Il faut pas respirer la compote, ça fait tousser (Antoine P & Pierre)</td>
-                        <td>-</td>
-                        <td>-</td>
+                        <td>10 - 2</td>
+                        <td>Les branle manettes (Eric & Christophe S)</td>
                     </tr>
                     <tr>
                         <td>Les branle manettes (Eric & Christophe S)</td>
