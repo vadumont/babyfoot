@@ -46,7 +46,7 @@
                     <tr>
                         <td>T-Rex</td>
                         <td>Isabelle & Anourack</td>
-                        <td>-</td>
+                        <td><img id="logo" src="img/trex.jpg" height=75 width=100></td>
                     </tr>
                     <tr>
                         <td>Elle est où la poulette ?</td>
