@@ -61,7 +61,7 @@
                     <tr>
                         <td>Espèce protégée en voie de disparition</td>
                         <td>Lise & Jean-Noël</td>
-                        <td>-</td>
+                        <td><img id="logo" src="img/espece.jpg" height=125 width=100></td>
                     </tr>
                 </table>
 
