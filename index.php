@@ -51,7 +51,7 @@
                     <tr>
                         <td>Elle est où la poulette ?</td>
                         <td>Christophe B & Fabien</td>
-                        <td>-</td>
+                        <td><img id="logo" src="img/poulette.png" height=75 width=75></td>
                     </tr>
                     <tr>
                         <td>Le diable est aux vaches</td>
