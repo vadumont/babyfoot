@@ -17,12 +17,20 @@
                         <th>NOMBRE DE MATCHS JOUES</th>
                     </tr>
                     <tr>
-                        <td>Ouais, c'est pas faux (Patricia & Thierry)</td>
+                        <td>Elle est où la poulette ? (Christophe B & Fabien)</td>
                         <td>3</td>
                         <td>1</td>
                         <td>0</td>
-                        <td>2</td>
                         <td>1</td>
+                        <td>1</td>
+                    </tr>
+                    <tr>
+                        <td>Ouais, c'est pas faux (Patricia & Thierry)</td>
+                        <td>3</td>
+                        <td>1</td>
+                        <td>1</td>
+                        <td>1</td>
+                        <td>2</td>
                     </tr>
                     <tr>
                         <td>Espèce protégée en voie de disparition (Lise & Jean-Noël)</td>
@@ -34,14 +42,6 @@
                     </tr>
                     <tr>
                         <td>T-Rex (Isabelle & Anourack)</td>
-                        <td>0</td>
-                        <td>-</td>
-                        <td>-</td>
-                        <td>-</td>
-                        <td>-</td>
-                    </tr>
-                    <tr>
-                        <td>Elle est où la poulette ? (Christophe B & Fabien)</td>
                         <td>0</td>
                         <td>-</td>
                         <td>-</td>
@@ -93,8 +93,8 @@
                     <tr>
                         <td>Ouais, c'est pas faux (Patricia & Thierry)</td>
                         <td>Elle est où la poulette ? (Christophe B & Fabien)</td>
-                        <td>-</td>
-                        <td>-</td>
+                        <td>10 - 9</td>
+                        <td>Elle est où la poulette ? (Christophe B & Fabien)</td>
                     </tr>
                     <tr>
                         <td>Le diable est aux vaches (Pierre-Guy & Jean-Pierre)</td>
