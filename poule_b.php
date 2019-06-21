@@ -17,20 +17,20 @@
                         <th>NOMBRE DE MATCHS JOUES</th>
                     </tr>
                     <tr>
-                        <td>Elle est où la poulette ? (Christophe B & Fabien)</td>
-                        <td>3</td>
-                        <td>1</td>
-                        <td>0</td>
-                        <td>1</td>
-                        <td>1</td>
-                    </tr>
-                    <tr>
                         <td>Ouais, c'est pas faux (Patricia & Thierry)</td>
                         <td>6</td>
                         <td>2</td>
                         <td>1</td>
                         <td>10</td>
                         <td>3</td>
+                    </tr>
+                    <tr>
+                        <td>Elle est où la poulette ? (Christophe B & Fabien)</td>
+                        <td>3</td>
+                        <td>1</td>
+                        <td>0</td>
+                        <td>1</td>
+                        <td>1</td>
                     </tr>
                     <tr>
                         <td>Espèce protégée en voie de disparition (Lise & Jean-Noël)</td>
