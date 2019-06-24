@@ -26,7 +26,7 @@
                     <tr>
                         <td>Les rasta rocket</td>
                         <td>Gilles & Sébastien</td>
-                        <td>-</td>
+                        <td><img id="logo" src="img/rasta.jpg" height=75 width=100></td>
                     </tr>
                     <tr>
                         <td>A l'ancienne</td>
