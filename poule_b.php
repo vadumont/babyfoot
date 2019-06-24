@@ -20,9 +20,17 @@
                         <td>Ouais, c'est pas faux (Patricia & Thierry)</td>
                         <td>6</td>
                         <td>2</td>
-                        <td>1</td>
-                        <td>10</td>
+                        <td>2</td>
+                        <td>4</td>
+                        <td>4</td>
+                    </tr>
+                    <tr>
+                        <td>Le diable est aux vaches (Pierre-Guy & Jean-Pierre)</td>
                         <td>3</td>
+                        <td>1</td>
+                        <td>0</td>
+                        <td>6</td>
+                        <td>1</td>
                     </tr>
                     <tr>
                         <td>Elle est où la poulette ? (Christophe B & Fabien)</td>
@@ -48,14 +56,6 @@
                         <td>-9</td>
                         <td>1</td>
                     </tr>
-                    <tr>
-                        <td>Le diable est aux vaches (Pierre-Guy & Jean-Pierre)</td>
-                        <td>0</td>
-                        <td>-</td>
-                        <td>-</td>
-                        <td>-</td>
-                        <td>-</td>
-                    </tr>
                 </table>
 
             </div>
@@ -75,8 +75,8 @@
                     <tr>
                         <td>Ouais, c'est pas faux (Patricia & Thierry)</td>
                         <td>Le diable est aux vaches (Pierre-Guy & Jean-Pierre)</td>
-                        <td>-</td>
-                        <td>-</td>
+                        <td>10 - 4</td>
+                        <td>Le diable est aux vaches (Pierre-Guy & Jean-Pierre)</td>
                     </tr>
                     <tr>
                         <td>Ouais, c'est pas faux (Patricia & Thierry)</td>
