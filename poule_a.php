@@ -17,20 +17,20 @@
                         <th>NOMBRE DE MATCHS JOUES</th>
                     </tr>
                     <tr>
+                        <td>Les branle manettes (Christophe S & Eric)</td>
+                        <td>6</td>
+                        <td>2</td>
+                        <td>0</td>
+                        <td>13</td>
+                        <td>2</td>
+                    </tr>
+                    <tr>
                         <td>Les petits pédestres dont un au lion (Rémy & Valentin)</td>
                         <td>6</td>
                         <td>2</td>
                         <td>0</td>
                         <td>11</td>
                         <td>2</td>
-                    </tr>
-                    <tr>
-                        <td>Les branle manettes (Christophe S & Eric)</td>
-                        <td>3</td>
-                        <td>1</td>
-                        <td>0</td>
-                        <td>8</td>
-                        <td>1</td>
                     </tr>
                     <tr>
                         <td>Il faut pas respirer la compote, ça fait tousser (Antoine P & Pierre)</td>
@@ -44,9 +44,9 @@
                         <td>Les rasta rocket (Gilles & Sébastien)</td>
                         <td>0</td>
                         <td>0</td>
-                        <td>2</td>
-                        <td>-8</td>
-                        <td>2</td>
+                        <td>3</td>
+                        <td>-13</td>
+                        <td>3</td>
                     </tr>
                     <tr>
                         <td>A l'ancienne (Romain & Jérôme)</td>
@@ -123,8 +123,8 @@
                     <tr>
                         <td>Les branle manettes (Eric & Christophe S)</td>
                         <td>Les rasta rocket (Gilles & Sébastien)</td>
-                        <td>-</td>
-                        <td>-</td>
+                        <td>10 - 5</td>
+                        <td>Les branle manettes (Eric & Christophe S)</td>
                     </tr>
                     <tr>
                         <td>Il faut pas respirer la compote, ça fait tousser (Antoine P & Pierre)</td>
