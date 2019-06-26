@@ -9,7 +9,7 @@
 
                 <table>
                     <tr>
-                        <th>EQUIPES</th>
+                        <th>EQUIPE</th>
                         <th>JOUEURS</th>
                         <th>LOGO</th>
                     </tr>
