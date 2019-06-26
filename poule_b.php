@@ -41,20 +41,20 @@
                         <td>1</td>
                     </tr>
                     <tr>
+                        <td>T-Rex (Isabelle-Bruno G & Anourack)</td>
+                        <td>3</td>
+                        <td>1</td>
+                        <td>1</td>
+                        <td>-4</td>
+                        <td>2</td>
+                    </tr>
+                    <tr>
                         <td>Espèce protégée en voie de disparition (Lise & Jean-Noël)</td>
                         <td>0</td>
                         <td>0</td>
-                        <td>1</td>
-                        <td>-2</td>
-                        <td>1</td>
-                    </tr>
-                    <tr>
-                        <td>T-Rex (Isabelle & Anourack)</td>
-                        <td>0</td>
-                        <td>0</td>
-                        <td>1</td>
-                        <td>-9</td>
-                        <td>1</td>
+                        <td>2</td>
+                        <td>-7</td>
+                        <td>2</td>
                     </tr>
                 </table>
 
@@ -86,7 +86,7 @@
                     </tr>
                     <tr>
                         <td>Ouais, c'est pas faux (Patricia & Thierry)</td>
-                        <td>T-Rex (Isabelle & Anourack)</td>
+                        <td>T-Rex (Isabelle-Bruno G & Anourack)</td>
                         <td>10 - 1</td>
                         <td>Ouais, c'est pas faux (Patricia & Thierry)</td>
                     </tr>
@@ -104,7 +104,7 @@
                     </tr>
                     <tr>
                         <td>Le diable est aux vaches (Pierre-Guy & Jean-Pierre)</td>
-                        <td>T-Rex (Isabelle & Anourack)</td>
+                        <td>T-Rex (Isabelle-Bruno G & Anourack)</td>
                         <td>-</td>
                         <td>-</td>
                     </tr>
@@ -116,9 +116,9 @@
                     </tr>
                     <tr>
                         <td>Espèce protégée en voie de disparition (Lise & Jean-Noël)</td>
-                        <td>T-Rex (Isabelle & Anourack)</td>
-                        <td>-</td>
-                        <td>-</td>
+                        <td>T-Rex (Isabelle-Bruno G & Anourack)</td>
+                        <td>10 - 5</td>
+                        <td>T-Rex (Isabelle-Bruno G & Anourack)</td>
                     </tr>
                     <tr>
                         <td>Espèce protégée en voie de disparition (Lise & Jean-Noël)</td>
@@ -127,7 +127,7 @@
                         <td>-</td>
                     </tr>
                     <tr>
-                        <td>T-Rex (Isabelle & Anourack)</td>
+                        <td>T-Rex (Isabelle-Bruno G & Anourack)</td>
                         <td>Elle est où la poulette ? (Christophe B & Fabien)</td>
                         <td>-</td>
                         <td>-</td>
