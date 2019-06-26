@@ -45,7 +45,7 @@
                     </tr>
                     <tr>
                         <td>T-Rex</td>
-                        <td>Isabelle & Anourack</td>
+                        <td>Isabelle-Bruno G & Anourack</td>
                         <td><img id="logo" src="img/trex.jpg" height=75 width=100></td>
                     </tr>
                     <tr>
