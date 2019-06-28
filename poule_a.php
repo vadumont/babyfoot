@@ -26,19 +26,19 @@
                     </tr>
                     <tr>
                         <td>Les petits pédestres dont un au lion (Rémy & Valentin)</td>
-                        <td>6</td>
-                        <td>2</td>
-                        <td>1</td>
-                        <td>4</td>
+                        <td>9</td>
                         <td>3</td>
+                        <td>1</td>
+                        <td>8</td>
+                        <td>4</td>
                     </tr>
                     <tr>
                         <td>A l'ancienne (Romain & Jérôme)</td>
                         <td>3</td>
                         <td>1</td>
-                        <td>0</td>
-                        <td>3</td>
                         <td>1</td>
+                        <td>-1</td>
+                        <td>2</td>
                     </tr>
                     <tr>
                         <td>Il faut pas respirer la compote, ça fait tousser (Antoine P & Pierre)</td>
@@ -75,8 +75,8 @@
                     <tr>
                         <td>Les petits pédestres dont un au lion (Rémy & Valentin)</td>
                         <td>A l'ancienne (Romain & Jérôme)</td>
-                        <td>-</td>
-                        <td>-</td>
+                        <td>10 - 6</td>
+                        <td>Les petits pédestres dont un au lion (Rémy & Valentin)</td>
                     </tr>
                     <tr>
                         <td>Les petits pédestres dont un au lion (Rémy & Valentin)</td>
