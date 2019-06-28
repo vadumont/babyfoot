@@ -33,12 +33,20 @@
                         <td>3</td>
                     </tr>
                     <tr>
+                        <td>A l'ancienne (Romain & Jérôme)</td>
+                        <td>3</td>
+                        <td>1</td>
+                        <td>0</td>
+                        <td>3</td>
+                        <td>1</td>
+                    </tr>
+                    <tr>
                         <td>Il faut pas respirer la compote, ça fait tousser (Antoine P & Pierre)</td>
                         <td>3</td>
                         <td>1</td>
-                        <td>2</td>
-                        <td>-11</td>
                         <td>3</td>
+                        <td>-14</td>
+                        <td>4</td>
                     </tr>
                     <tr>
                         <td>Les rasta rocket (Gilles & Sébastien)</td>
@@ -47,14 +55,6 @@
                         <td>3</td>
                         <td>-13</td>
                         <td>3</td>
-                    </tr>
-                    <tr>
-                        <td>A l'ancienne (Romain & Jérôme)</td>
-                        <td>0</td>
-                        <td>-</td>
-                        <td>-</td>
-                        <td>-</td>
-                        <td>-</td>
                     </tr>
                 </table>
 
@@ -105,8 +105,8 @@
                     <tr>
                         <td>A l'ancienne (Romain & Jérôme)</td>
                         <td>Il faut pas respirer la compote, ça fait tousser (Antoine P & Pierre)</td>
-                        <td>-</td>
-                        <td>-</td>
+                        <td>10 - 7</td>
+                        <td>A l'ancienne (Romain & Jérôme)</td>
                     </tr>
                     <tr>
                         <td>A l'ancienne (Romain & Jérôme)</td>
